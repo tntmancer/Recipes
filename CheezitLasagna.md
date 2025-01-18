@@ -2,12 +2,12 @@
 ## Ingredients 
 ### Dough
 <ul> 
-<li> 32 Ounces of Shredded Cheddar Cheese 
-<li> 16 Tablespoons of Butter, Room Temperature 
-<li> 4 Teaspoons of Kosher Salt
-<li> 4 Cups of All-purpose Flour
+<li> 16 Ounces of Shredded Cheddar Cheese 
+<li> 8 Tablespoons of Butter, Room Temperature 
+<li> 2 Teaspoons of Kosher Salt
+<li> 2 Cups of All-purpose Flour
 <li> 1/2 Cup of Ice Water
-<li> 4 Drops Red Food Coloring (Optional)
+<li> 2 Drops Red Food Coloring (Optional)
 </ul>
 
 ### Filling 
