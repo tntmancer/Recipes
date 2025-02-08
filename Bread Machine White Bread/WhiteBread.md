@@ -10,6 +10,7 @@
 <li> 2 Teaspoons Active Dry Yeast
 <li> 1½ Teaspoons of Salt
 </ul>
+
 ## Instructions
 <ul>
 <li> Add Water to Bread Machine Pan

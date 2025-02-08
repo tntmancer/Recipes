@@ -38,5 +38,5 @@
 <li> Return the dish to the oven and bake for a further five minutes.
 <li> Remove the dish from the oven and serve warm.
 
-## Acknowledgements
+### Acknowledgements
 The recipe for the dough and crust is based on [this recipe](https://www.goodfoodstories.com/homemade-cheez-its/). Thank you to Brian for advising me on the filling.

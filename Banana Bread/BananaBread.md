@@ -23,3 +23,6 @@
 <li> Fold in Bananas and Nuts/Chocolte Just Until Combined
 <li> Scrape Batter into the Pan and Spread Evenly. Bake for 50-65 Minutes Depending on Desired Moisture Level
 </ul>
+
+### Acknowledgements
+This recipe was taken from an old version of the Joy of Cooking and modified. The recipe in the more recent versions is unsatisfactory.
